@@ -4,7 +4,7 @@ public class IfElseNegasi {
 
 	public static void main(String[] args) {
 
-		int usia = 18;
+		int usia = 16;
 		
 		if (usia == 4 || usia == 5) { // || akan true jika salah saja kondisi yang berada antara || bernilai true
 			System.out.println("TK");
