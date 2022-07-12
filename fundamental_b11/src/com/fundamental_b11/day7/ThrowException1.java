@@ -12,7 +12,6 @@ public class ThrowException1 {
 				System.out.println("Gass"+i);
 			}
 		}
-		
 	}
 
 	// main method
@@ -27,5 +26,4 @@ public class ThrowException1 {
 		}
 		System.out.println("rest of the code...");
 	}
-
 }
