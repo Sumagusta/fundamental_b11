@@ -10,6 +10,8 @@ public class CallGeneric {
 		System.out.println("Nama : "+nama.getData());
 		System.out.println("Usia : "+usia.getData());
 		
+		System.out.println("testingg");
+		
 	}
 
 }
